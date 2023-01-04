@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "291479093779",
+    "project_id": "repapp-bbf2c",
+    "storage_bucket": "repapp-bbf2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291479093779:android:bdedd5bf39d3b7af07f5e6",
+        "android_client_info": {
+          "package_name": "com.example.repapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291479093779-6vmcqsjq1felda2tb7oequhh2gbspo2h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc1VYhPwkPRb7mM9NdaTxqiL5MA042W6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291479093779-6vmcqsjq1felda2tb7oequhh2gbspo2h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

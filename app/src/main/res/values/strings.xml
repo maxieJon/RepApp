@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RepApp</string>
+    <string-array name="Texts">
+        <item>In A Meeting</item>
+        <item>At The Gym</item>
+        <item>Am Driving</item>
+        <item>Can't Talk Just Text</item>
+        <item>At The Movies</item>
+        <item>I'll Call You Later</item>
+        <item>I Don't Want To Talk To You</item>
+    </string-array>
+
+</resources>
